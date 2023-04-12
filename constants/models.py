@@ -1,0 +1,1 @@
+GPT_TURBO = 'gpt-3.5-turbo'
