@@ -30,3 +30,5 @@ There are several components to this template. Let's go over them:
 | --- | --- |
 | Add new models | Add more models to the `models.py` file. This can be beneficial for doing less complex tasks for a cheaper price. |
 | Add GPT agents | Create a framework for adding GPT agents that can be used to perform specific tasks. The main agent can then use these agents to perform tasks. |
+| Long-term memory | Add a long-term memory to the chat application. This can be done by using a database to store the data that the chat application is working with. Most likely will have to use a vector store like Pinecone or Chroma. |
+| Chat history | Add a chat history to the chat application. This can be done by storing the chat history on the user's device in the form of a file. |
